@@ -1,0 +1,37 @@
+.personal-info {
+    background-image: url(../images/tree.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.information {
+    font-size: 30px;
+    color: #04f2fd;
+    padding-bottom: 30px;
+}
+.calculator-btn {
+    text-align: center;
+    padding:30px 0;
+}
+.btn {
+    background: #000;
+    border: 0;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+.btn a {
+    color: #a2a27a;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size:  24px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+.btn:hover {
+    background-color: #24201d;
+}
